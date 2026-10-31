@@ -1,5 +1,10 @@
 <!-- Profile README for AbdullKarimHamidi -->
 
+<!-- Animated wave banner -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:36bcf7,100:7f5af0&height=180&section=header&animation=twinkling" alt="Animated wave header" />
+</div>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Abdul+Karim+Hamidi;Full-Stack+Developer;AI%2FML+%26+Computer+Vision+Engineer;Building+intelligent+things+with+code" alt="Animated introduction" />
