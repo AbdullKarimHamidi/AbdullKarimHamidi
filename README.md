@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Abdul Karim Hamidi
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Abdul+Karim+Hamidi;Full-Stack+Developer;AI%2FML+%26+Computer+Vision+Engineer;Building+intelligent+things+with+code" alt="Animated introduction" />
 
 ### Full-Stack Developer · AI/ML Engineer · Computer Vision Enthusiast
 
@@ -65,6 +65,17 @@ to backend services and real-time computer vision solutions.
 | **[Real-Time Hand Tracking](https://github.com/AbdullKarimHamidi/real-time-hand-tracking)** | Tracks hand landmarks from a live camera feed. | Python · MediaPipe · OpenCV |
 
 > Explore more projects on my **[GitHub repositories](https://github.com/AbdullKarimHamidi?tab=repositories)**.
+
+---
+
+## 🐍 Live Contribution Animation
+
+<div align="center">
+
+<!-- The GitHub Actions workflow updates these SVGs daily and on pushes to main. -->
+<img src="https://raw.githubusercontent.com/AbdullKarimHamidi/AbdullKarimHamidi/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" />
+
+</div>
 
 ---
 
