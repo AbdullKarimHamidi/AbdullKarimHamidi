@@ -1,8 +1,8 @@
 <!-- Profile README for AbdullKarimHamidi -->
 
-<!-- Animated wave banner -->
+<!-- Animated top wave -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:36bcf7,100:7f5af0&height=180&section=header&animation=twinkling" alt="Animated wave header" />
+  <img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=waving&customColorList=6,12,20&height=180&section=header&text=&fontSize=0&animation=twinkling" alt="Animated top wave" />
 </div>
 
 <div align="center">
@@ -123,4 +123,9 @@ to backend services and real-time computer vision solutions.
 
 ### *Building useful things with code, AI, and curiosity.*
 
+</div>
+
+<!-- Animated bottom wave -->
+<div align="center">
+  <img width="100%" height="140" src="https://capsule-render.vercel.app/api?type=waving&customColorList=6,12,20&height=140&section=footer&text=&fontSize=0&animation=twinkling" alt="Animated bottom wave" />
 </div>
